@@ -1,0 +1,22 @@
+---------------------------------------------
+           APPOINTMENT CONFIRMATION
+---------------------------------------------
+
+Patient Name: Arhaan Ahmed
+Email Address: maheenarhaan@gmail.com
+Phone Number: +91 8076576911
+Appointment Date: 07-11-2025
+
+Dear Arhaan Ahmed,
+
+Your appointment has been successfully booked for 07-11-2025.
+Please arrive 10–15 minutes early for registration and verification.
+
+You can show this file at the hospital reception as proof of your appointment.
+
+Thank you for choosing our healthcare services.
+We look forward to serving you with care and dedication.
+
+---------------------------------------------
+           HEALTHCARE APPOINTMENT DESK
+---------------------------------------------

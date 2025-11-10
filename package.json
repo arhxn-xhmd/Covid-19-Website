@@ -1,0 +1,14 @@
+{
+  "name": "covid-19-website",
+  "version": "1.0.0",
+  "description": "Covid-19 awareness hub:track updates, learn symptoms and follow precautions.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arhxn-xhmd (Arhaan Ahmed)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

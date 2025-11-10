@@ -1,0 +1,105 @@
+Are you experiencing a fever or chills?
+Do you have a cough or sore throat?
+Are you feeling unusually tired or fatigued?
+Have you lost your sense of taste or smell?
+Do you have shortness of breath or difficulty breathing?
+Have you been in contact with someone who tested positive for COVID-19?
+Do you have a headache or body aches?
+Are you feeling nauseous or have you vomited recently?
+Do you have a runny or congested nose?
+Are you experiencing diarrhea or stomach upset?
+Have you traveled recently to a high-risk area?
+Do you have chest pain or pressure?
+Are you feeling dizzy or lightheaded?
+Do you have a scratchy throat or persistent irritation?
+Are you experiencing muscle or joint pain?
+Do you have chills without a fever?
+Are you experiencing confusion or difficulty concentrating?
+Do you feel unusually weak or lethargic?
+Have you noticed skin rashes or discoloration?
+Do you have red or irritated eyes?
+Are you experiencing frequent sneezing?
+Do you have a sudden loss of appetite?
+Are you feeling anxious about your health lately?
+Do you have any recent unexplained weight loss?
+Are you experiencing persistent coughing fits?
+Do you have difficulty swallowing?
+Are you feeling unusually irritable or restless?
+Do you have mild or severe fatigue?
+Are you experiencing heart palpitations?
+Do you have a mild fever that comes and goes?
+Are you feeling tightness in your chest?
+Do you have nasal congestion or sinus pressure?
+Are you experiencing joint swelling or stiffness?
+Do you have a persistent sore throat?
+Are you feeling shivers or body trembling?
+Do you have sudden headaches without reason?
+Are you experiencing shortness of breath while resting?
+Do you have stomach cramps or pain?
+Are you feeling nauseous after meals?
+Do you have throat irritation or mild hoarseness?
+Are you experiencing ear pain or ringing?
+Do you have mild dizziness when standing up?
+Are you feeling unsteady on your feet?
+Do you have slight chills or shivering?
+Are you experiencing difficulty sleeping due to symptoms?
+Do you have recent episodes of sweating?
+Are you feeling weak even after resting?
+Do you have mild or occasional coughing?
+Are you experiencing mild body aches?
+Do you have a scratchy or irritated throat?
+Are you feeling fatigued in the morning?
+Do you have mild headaches occasionally?
+Are you experiencing nasal congestion frequently?
+Do you have a mild fever at night?
+Are you feeling unusually thirsty?
+Do you have a loss of smell in the morning?
+Are you experiencing mild shortness of breath when walking?
+Do you have stomach discomfort after meals?
+Are you feeling fatigued after light activity?
+Do you have throat irritation after talking?
+Are you experiencing mild nausea in the morning?
+Do you have muscle aches after minimal effort?
+Are you feeling weak after waking up?
+Do you have mild sneezing throughout the day?
+Are you experiencing nasal irritation or dryness?
+Do you have eye redness after screen exposure?
+Are you feeling unusually tired in the evening?
+Do you have occasional dizziness after standing?
+Are you experiencing mild joint pain after activity?
+Do you have a mild sore throat in the morning?
+Are you feeling slight shivering at night?
+Do you have headaches after prolonged work?
+Are you experiencing mild fatigue after walking?
+Do you have mild congestion in your nose?
+Are you feeling unusual weakness during the day?
+Do you have mild nausea after drinking water?
+Are you experiencing mild throat irritation after meals?
+Do you have occasional coughing at night?
+Are you feeling tired after light physical activity?
+Do you have a mild headache after waking up?
+Are you experiencing slight shortness of breath?
+Do you have occasional muscle stiffness?
+Are you feeling mild fatigue after exercise?
+Do you have mild chills after coming inside from cold weather?
+Are you experiencing occasional dizziness during the day?
+Do you have mild nasal congestion at night?
+Are you feeling weak after light activity?
+Do you have mild eye irritation?
+Are you experiencing slight fatigue in the morning?
+Do you have mild stomach discomfort occasionally?
+Are you feeling tired after minor tasks?
+Do you have occasional mild sore throat?
+Are you experiencing light body aches?
+Do you have mild shivering after sitting outside?
+Are you feeling tired after walking short distances?
+Do you have mild headaches in the evening?
+Are you experiencing slight weakness during the day?
+Do you have mild nausea after breakfast?
+Are you feeling fatigued in the afternoon?
+Do you have occasional mild joint stiffness?
+Are you experiencing slight muscle pain?
+Do you have mild shortness of breath after climbing stairs?
+Are you feeling slightly dizzy after standing quickly?
+Do you have mild throat irritation in the evening?
+Are you experiencing mild fatigue after minimal work?
